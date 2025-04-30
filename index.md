@@ -1,8 +1,8 @@
 Hello World This is my home page! My name is Nathan Lam and I am a
-student at \[Cal State Fullerton\](http://www.fullerton.edu/) and my
-major is Computer Science. \## Computer Science Projects 
+student at [Cal State Fullerton](http://www.fullerton.edu/) and my
+major is Computer Science. # Computer Science Projects 
 
-My GitHub page is http://github.com/natelamb1. \### CPSC 120 
+My GitHub page is http://github.com/natelamb1. ## CPSC 120 
 
 - Lab 2 
 Lab 2 was my introduction to using Git and GitHub for version control, which is
